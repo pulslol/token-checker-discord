@@ -1,1 +1,1 @@
-# Token-Checker-Discord
+# Check tokens easily for Discord <3
